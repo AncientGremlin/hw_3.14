@@ -18,6 +18,7 @@ ___
 11. [Команда pull](./pull.md)
 12. [Команда push](./push.md)
 13. [Команда merge](./merge.md)
+14. [Немного о лени автора](./lazy.md)
 ___
 GIT LOGO by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
