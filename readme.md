@@ -15,6 +15,9 @@ ___
 8. [Команда clone](./clone.md)
 9. [Подключение удаленного репозитория](./remote_add_origin.md)
 10. [Команда fetch](./fetch.md)
+11. [Команда pull](./pull.md)
+12. [Команда push](./push.md)
+13. [Команда merge](./merge.md)
 ___
 GIT LOGO by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
