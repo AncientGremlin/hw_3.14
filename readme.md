@@ -11,8 +11,11 @@ ___
 4. [Команда init](./init.md)
 5. [Команда status](./status.md)
 6. [Команда add](add.md)
+7. [Команда commit](./commit.md)
+8. [Команда clone](./clone.md)
+9. [Подключение удаленного репозитория](./remote_add_origin.md)
+10. [Команда fetch](./fetch.md)
 ___
-
 GIT LOGO by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 
